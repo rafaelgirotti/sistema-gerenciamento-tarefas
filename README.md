@@ -5,11 +5,12 @@
 
 ## Tecnologias Aplicadas
 - **Linguagem de Programação**: Java
-- **Framework de Interface Gráfica**: Swing
+- **Framework Web**: Spring Boot
 - **Banco de Dados**: MySQL
+- **Frontend**: HTML5, CSS3, JavaScript
 
 ## Descrição do Projeto
-O sistema de gerenciamento de tarefas é um aplicativo desktop que permite aos usuários criar e gerenciar suas tarefas diárias. Ele oferece recursos como criar tarefas, definir prioridades e prazos, marcar tarefas como concluídas, buscar e filtrar tarefas.
+O sistema de gerenciamento de tarefas é um aplicativo web que permite aos usuários criar e gerenciar suas tarefas diárias. Ele oferece recursos como criar tarefas, definir prioridades e prazos, marcar tarefas como concluídas, buscar e filtrar tarefas.
 
 ## Objetivo do Software
 O objetivo do sistema é facilitar a organização e o gerenciamento das tarefas diárias, ajudando os usuários a se manterem produtivos e organizados.
